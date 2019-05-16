@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyllanNews</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="top">Top News</string>
+    <string name="every">Every News</string>
+    <string name="sources">Sources</string>
+    <string name="sports">Sports</string>
+
+</resources>
